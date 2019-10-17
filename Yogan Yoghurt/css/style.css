@@ -207,7 +207,7 @@ nav ul ul li a {
     display: block;
 }
 
-/* Second, Third and more Tiers	
+/* Second, Third and more Tiers
  * We move the 2nd and 3rd etc tier dropdowns to the left
  * by the amount of the width of the first tier.
 */
@@ -801,8 +801,8 @@ li.breadcrumb-item a {
         margin-bottom: 10px;
         text-transform: uppercase;
     }
-    
-    
+
+
 .img-deal1 a {
     font-size: 14px;
     color: #6d6c6c;
@@ -827,7 +827,7 @@ background: url(../images/single.jpg)no-repeat center;
 -ms-background-size: cover;
 background-size: cover;
 position: relative;
-height:15em;
+height:100px;
 padding:5.5em 2em 0 0;
 }
 .grid-img-right span.money{
@@ -1352,7 +1352,7 @@ a.move-top span {
     .sub-para-Yoganlayouts {
         margin: 0;
     }
-   
+
 }
 
 @media(max-width:480px) {
@@ -1408,7 +1408,7 @@ a.move-top span {
 }
 
 @media(max-width:384px) {
-  
+
 }
 
 @media(max-width:375px) {
@@ -1416,7 +1416,7 @@ a.move-top span {
 }
 
 @media(max-width:320px) {
-  
+
 }
 
 /*--//responsive--*/
