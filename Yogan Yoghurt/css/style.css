@@ -72,8 +72,6 @@ ol {
 
 /* header */
 
-/* CSS Document */
-
 header {
     position: absolute;
     z-index: 9;
@@ -103,8 +101,6 @@ nav {
     font-weight: 700;
     text-shadow: 2px 5px 3px rgba(0, 0, 0, 0.06);
 }
-
-
 
 /* Since we'll have the "ul li" "float:left"
  * we need to add a clear after the container. */
@@ -595,11 +591,6 @@ ul.tic-info li {
 }
 
 /*-- //features --*/
-/*-- /New-Arrivals --*/
-.product-shoe-info {
-    padding: 15px;
-    border: 1px solid #e4e4e4;
-}
 
 .item-info-product h4 a {
     color: #080808;
@@ -679,12 +670,6 @@ section#brands {
     margin-bottom: 0.5em;
 }
 
-/*-- /testimonials --*/
-
-.testimonials {
-    background: #f2f2f2;
-}
-
 .test-info {
     padding: 2em 0;
     margin: 0 auto;
@@ -746,7 +731,6 @@ ul.list-unstyled.Yoganlayouts-icons.clients li span:hover {
 
 }
 
-/*-- //testimonials --*/
 .men-thumb-item{
    position: relative;
 }
@@ -801,7 +785,6 @@ li.breadcrumb-item a {
         margin-bottom: 10px;
         text-transform: uppercase;
     }
-
 
 .img-deal1 a {
     font-size: 14px;
@@ -900,31 +883,6 @@ p.italic-blue {
     font-weight: 500;
 }
 /*--//shop--*/
-/*-- customer --*/
-
-.customer-rev ul li span {
-    color: #f58b8d;
-    font-size: 0.8em
-}
-h3.sear-head {
-    color: #1e272e;
-    margin-bottom: 20px;
-    font-size: 1em;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-}
-.customer-rev ul li {
-	list-style: none;
-}
-.customer-rev ul li a span {
-    color: #a4a6a9;
-    font-weight: normal;
-    margin-right: 4px;
-}
-
-
-/*-- //customer --*/
 
 /*--/footer--*/
 
